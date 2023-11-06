@@ -1,0 +1,7 @@
+{
+  "apps" : [{
+    "name"        : "MagicMirror",
+    "script"      : "/home/relliott/MagicMirror/installers/mm.sh",
+    "watch"       : ["/home/relliott/MagicMirror/config/config.js"]
+  }]
+}
