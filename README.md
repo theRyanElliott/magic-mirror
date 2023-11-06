@@ -1,3 +1,6 @@
+## This is not my ReadMe file, this was published as is, as I created my MM environment
+
+
 ![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
 
 <p style="text-align: center">
